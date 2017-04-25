@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [timestream (v0.1.1)](https://github.com/brycebaril/timestream)  [![npm package](https://img.shields.io/npm/v/npmtest-timestream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-timestream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-timestream.svg)](https://travis-ci.org/npmtest/node-npmtest-timestream)",
+    "description": "#### basic test coverage for  [timestream (v0.1.1)](https://github.com/brycebaril/timestream)  [![npm package](https://img.shields.io/npm/v/npmtest-timestream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-timestream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-timestream.svg)](https://travis-ci.org/npmtest/node-npmtest-timestream)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "timestream": "*",
